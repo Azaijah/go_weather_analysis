@@ -19,4 +19,63 @@ cities:
     country_code: IN
   - name: Moscow
     country_code: RU
-
+  - name: Rio de Janeiro
+    country_code: BR
+  - name: Johannesburg
+    country_code: ZA
+  - name: Istanbul
+    country_code: TR
+  - name: Seoul
+    country_code: KR
+  - name: Mexico City
+    country_code: MX
+  - name: Cairo
+    country_code: EG
+  - name: Buenos Aires
+    country_code: AR
+  - name: Bangkok
+    country_code: TH
+  - name: Nairobi
+    country_code: KE
+  - name: Dubai
+    country_code: AE
+  - name: Madrid
+    country_code: ES
+  - name: Rome
+    country_code: IT
+  - name: Amsterdam
+    country_code: NL
+  - name: Kuala Lumpur
+    country_code: MY
+  - name: Singapore
+    country_code: SG
+  - name: Santiago
+    country_code: CL
+  - name: Lagos
+    country_code: NG
+  - name: Lima
+    country_code: PE
+  - name: Helsinki
+    country_code: FI
+  - name: Auckland
+    country_code: NZ
+  - name: Oslo
+    country_code: NO
+  - name: Copenhagen
+    country_code: DK
+  - name: Prague
+    country_code: CZ
+  - name: Warsaw
+    country_code: PL
+  - name: Budapest
+    country_code: HU
+  - name: Athens
+    country_code: GR
+  - name: Jakarta
+    country_code: ID
+  - name: Manila
+    country_code: PH
+  - name: Hanoi
+    country_code: VN
+  - name: Riyadh
+    country_code: SA
