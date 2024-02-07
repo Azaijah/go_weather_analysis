@@ -1,0 +1,22 @@
+cities:
+  - name: Tokyo
+    country_code: JP
+  - name: New York
+    country_code: US
+  - name: Paris
+    country_code: FR
+  - name: London
+    country_code: GB
+  - name: Berlin
+    country_code: DE
+  - name: Sydney
+    country_code: AU
+  - name: Toronto
+    country_code: CA
+  - name: Beijing
+    country_code: CN
+  - name: Mumbai
+    country_code: IN
+  - name: Moscow
+    country_code: RU
+
